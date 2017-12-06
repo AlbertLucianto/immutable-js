@@ -1,3 +1,5 @@
+Adding Immutable Priority Queue Data Structure
+
 Immutable collections for JavaScript
 ====================================
 
